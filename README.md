@@ -6,7 +6,7 @@ It is a very simple module generator
 Clone the repository, `cd` to it, execute following command and be happy:
 
 ```
-sudo ln -s ./erltpl.erl /usr/bin
+sudo ln -s ./erltpl.erl /usr/bin/erltpl
 ```
 
 Now you can use `erltpl` to generate modules based on templates.
