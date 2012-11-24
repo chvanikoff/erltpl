@@ -8,7 +8,7 @@
 	init/3,
 	handle/2,
 	terminate/2
-])
+]).
 
 %% API
 -export([]).
